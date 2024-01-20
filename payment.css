@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #0C2D48;
+    font-family: 'Montserrat', sans-serif;
+}
+form{
+    width: 600px;
+    margin: 100px auto auto; 
+    padding: 21px;
+    box-shadow: 0 4px 8px 0 #30475e, 0 4px 8px 0 #30475e;
+    color: #fff;
+    /* margin: 61px 327px; */
+    font-size: 22px;
+}
+h1{
+    text-align: center;
+
+}
+.box1{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    box-sizing: border-box;
+    margin: 10px 0 15px 0;
+}
+.div1{
+    display: inline-block;
+    margin: 7px 2px;
+    font-size: 22px;
+
+}
+.box2{
+    padding: 10px;
+    border: none;
+    margin: 10px 0 15px 0;
+    background-color: #2e4357;
+}
+.btn{
+    width: 49%;
+    padding: 11px;
+    border: none;
+    border-radius: 16px;
+    font-size: 18px;
+    color: blue;
+    margin: 17px auto;
+}
